@@ -1,3 +1,6 @@
+
+## [Homework](Homework.md)
+
 # Welcome to ICS 690!
 
 In this course we'll be collaborating on a DAO blockchain project.
